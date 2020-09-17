@@ -1,4 +1,4 @@
-module mqtt/benchmark
+module github/chentoz/mqttgw-benchmark
 
 go 1.13
 
