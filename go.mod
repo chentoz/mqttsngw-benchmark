@@ -1,4 +1,4 @@
-module github/chentoz/mqttgw-benchmark
+module github/chentoz/mqttsngw-benchmark
 
 go 1.13
 
