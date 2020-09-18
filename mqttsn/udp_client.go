@@ -6,9 +6,9 @@ import (
 	"net"
 	"time"
 
-	common "mqtt/benchmark/common"
+	common "github.com/chentoz/mqttsngw-benchmark/common"
 
-	BLE "mqtt/benchmark/BLELocation"
+	BLE "github.com/chentoz/mqttsngw-benchmark/BLELocation"
 
 	"github.com/GaryBoone/GoStats/stats"
 	"github.com/golang/protobuf/proto"
