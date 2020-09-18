@@ -8,10 +8,9 @@ import (
 	"log"
 	"time"
 
-	common "mqtt/benchmark/common"
-	mqttsn "mqtt/benchmark/mqttsn"
-
 	"github.com/GaryBoone/GoStats/stats"
+	common "github.com/chentoz/mqttsngw-benchmark/common"
+	mqttsn "github.com/chentoz/mqttsngw-benchmark/mqttsn"
 )
 
 func main() {
